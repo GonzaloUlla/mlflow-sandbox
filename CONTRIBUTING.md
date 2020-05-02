@@ -10,6 +10,6 @@
 
 mlflow-sandbox was born as a hello-world project, feel free to contribute.
 
-If you want to be added as a contributor, email the author:
+If you want to be added as a collaborator, email the author:
 
 * **ULLA, Gonzalo** - _gonzaulla@gmail.com_
